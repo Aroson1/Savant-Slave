@@ -1,0 +1,13 @@
+{
+  "name": "savant-slave",
+  "owner": {
+    "name": "Aroson"
+  },
+  "plugins": [
+    {
+      "name": "college",
+      "source": "./plugins/college",
+      "description": "Claude skills for everyday college tasks, such as solving assignments and labs."
+    }
+  ]
+}

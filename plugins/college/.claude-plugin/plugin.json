@@ -1,0 +1,8 @@
+{
+  "name": "college",
+  "version": "1.0.0",
+  "description": "Claude skills for everyday college tasks, such as solving assignments and labs.",
+  "author": {
+    "name": "Aroson"
+  }
+}
